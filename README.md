@@ -1,2 +1,4 @@
-# code-evidential-gan
-# code-evidential-gan \n just to test the remote access
+# Evidential Generative Adversarial Networks
+
+PyTorch implementation of the ECSQARU'2023 paper entitled "Evidential Generative Adversarial Networks for handling imbalanced learning"
+
